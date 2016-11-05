@@ -1,1 +1,1 @@
-PROMPT='%{$FG[63]%}λ%{$reset_color%} '
+PROMPT="%{$FG[63]%}λ%{$reset_color%} "
